@@ -15,10 +15,5 @@ In this project we developed an algorithm for locating traffic lights in the ima
 * tensorflow
 * scipy
 
-
-## Credits
-* 
-
-
 ## Special Thanks
 * Our mentors from Mobileye team
