@@ -5,7 +5,6 @@ In this project we developed an algorithm for locating traffic lights in the ima
 ## Team Members
 * Chedva Erblich
 * Sara Polikman
-* Chaya Sara Rechnitzer
 
 
 ## Libraries/Technologies Used
